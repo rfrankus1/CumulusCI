@@ -17,6 +17,10 @@ CumulusCI now provides a command line interface.  The CLI is evolving and not al
 
 The steps above require that you have Python 2.7.x and the virtualenv command already installed.  See http://virtualenv.readthedocs.org/en/latest/installation.html for more info on installing virtualenv
 
+# Build Status
+
+CumulusCI is now being built and tested automatically.  You can view the current build status at https://salesforce-org.atlassian.net/builds/browse/CCIT
+
 # CumulusCI
 
 If you are already familiar with [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html) and just want to get up and running using this process in the Salesforce platform, follow these steps:
