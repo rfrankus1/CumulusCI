@@ -640,6 +640,7 @@ def upload_beta(config, commit, build_name, selenium_url, create_release, packag
         env['PACKAGE'] = config.cumulusci__package__name
 
     env['BUILD_NAME'] = build_name
+    env['BUILD_COMMIT'] = commit
 
     required_env = [
         'OAUTH_CLIENT_ID',
