@@ -1,4 +1,4 @@
-*.py[cod]
+*.csv
 .*.swp
 .*.swo
 venv/
